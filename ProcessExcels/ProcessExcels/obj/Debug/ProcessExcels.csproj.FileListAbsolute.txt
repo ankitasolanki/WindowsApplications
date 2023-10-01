@@ -1,0 +1,10 @@
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.csproj.AssemblyReference.cache
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.frmProcessExcel.resources
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.Properties.Resources.resources
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.csproj.GenerateResource.cache
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.csproj.CoreCompileInputs.cache
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\bin\Debug\ProcessExcels.exe.config
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\bin\Debug\ProcessExcels.exe
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\bin\Debug\ProcessExcels.pdb
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.exe
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\Debug\ProcessExcels.pdb

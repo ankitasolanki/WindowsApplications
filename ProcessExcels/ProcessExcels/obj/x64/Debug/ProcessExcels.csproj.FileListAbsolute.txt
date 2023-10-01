@@ -1,0 +1,19 @@
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\bin\x64\Debug\ProcessExcels.exe.config
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\bin\x64\Debug\ProcessExcels.exe
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\bin\x64\Debug\ProcessExcels.pdb
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.frmProcessExcel.resources
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.Properties.Resources.resources
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.csproj.GenerateResource.cache
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.csproj.CoreCompileInputs.cache
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.exe
+E:\PRECTICE\C# NET\ProcessData\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.pdb
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\bin\x64\Debug\ProcessExcels.exe.config
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\bin\x64\Debug\ProcessExcels.exe
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\bin\x64\Debug\ProcessExcels.pdb
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.csproj.AssemblyReference.cache
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.frmProcessExcel.resources
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.Properties.Resources.resources
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.csproj.GenerateResource.cache
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.csproj.CoreCompileInputs.cache
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.exe
+C:\Users\ankita.solanki\Desktop\ProcessExcels\ProcessExcels\obj\x64\Debug\ProcessExcels.pdb
